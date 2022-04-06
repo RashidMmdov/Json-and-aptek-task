@@ -1,0 +1,1 @@
+{"Id":1,"OrderItems":[{"Id":1,"Pruduct":{"Id":1,"Name":"Tea","Price":4.5},"Price":4.5},{"Id":2,"Pruduct":{"Id":2,"Name":"Milk","Price":6.0},"Price":6.0},{"Id":3,"Pruduct":{"Id":3,"Name":"Coffe","Price":3.5},"Price":3.5},{"Id":4,"Pruduct":{"Id":4,"Name":"Wather","Price":1.2},"Price":1.2}],"TotalPrice":15.2}

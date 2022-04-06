@@ -1,0 +1,16 @@
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\bin\Debug\netcoreapp3.1\Direction and File classworkTask.exe
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\bin\Debug\netcoreapp3.1\Direction and File classworkTask.deps.json
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\bin\Debug\netcoreapp3.1\Direction and File classworkTask.runtimeconfig.json
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\bin\Debug\netcoreapp3.1\Direction and File classworkTask.runtimeconfig.dev.json
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\bin\Debug\netcoreapp3.1\Direction and File classworkTask.dll
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\bin\Debug\netcoreapp3.1\Direction and File classworkTask.pdb
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\obj\Debug\netcoreapp3.1\Direction and File classworkTask.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\obj\Debug\netcoreapp3.1\Direction and File classworkTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\obj\Debug\netcoreapp3.1\Direction and File classworkTask.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\obj\Debug\netcoreapp3.1\Direction and File classworkTask.AssemblyInfo.cs
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\obj\Debug\netcoreapp3.1\Direction and File classworkTask.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\obj\Debug\netcoreapp3.1\Direction and File classworkTask.dll
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\obj\Debug\netcoreapp3.1\Direction and File classworkTask.pdb
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\obj\Debug\netcoreapp3.1\Direction and File classworkTask.genruntimeconfig.cache
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\resid\Desktop\Direction and File classworkTask\Direction and File classworkTask\obj\Debug\netcoreapp3.1\Direction and File classworkTask.csproj.CopyComplete
